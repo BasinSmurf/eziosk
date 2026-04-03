@@ -1,4 +1,4 @@
-# Kiosk
+# EZiosk
 
 Dead-simple touch/click kiosk launcher. Windows 8-style tile grid.
 Configured via JSON. Password-protected admin panel.
