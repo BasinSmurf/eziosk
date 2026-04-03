@@ -1,0 +1,52 @@
+{
+  "title": "eziosk",
+  "columns": null,
+  "accent": "#2a7a5a",
+  "password_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+  "_comment_password": "Default password is 'admin' — change it immediately via the admin panel",
+  "buttons": [
+    {
+      "label": "Google",
+      "icon": "🔍",
+      "sub": "search the web",
+      "color": "#1a1a2a",
+      "url": "https://google.com"
+    },
+    {
+      "label": "Wikipedia",
+      "icon": "📖",
+      "sub": "free encyclopedia",
+      "color": "#1a1a1a",
+      "url": "https://wikipedia.org"
+    },
+    {
+      "label": "Weather",
+      "icon": "🌤️",
+      "sub": "forecast",
+      "color": "#1a2a2a",
+      "url": "https://weather.com"
+    },
+    {
+      "label": "Claude",
+      "icon": "🤖",
+      "sub": "ai assistant",
+      "color": "#1a1a1a",
+      "url": "https://claude.ai"
+    },
+    {
+      "label": "YouTube",
+      "icon": "▶️",
+      "sub": "video",
+      "color": "#2a1a1a",
+      "url": "https://youtube.com"
+    },
+    {
+      "label": "New Tab",
+      "icon": "↗️",
+      "sub": "opens externally",
+      "color": "#1c1c1c",
+      "url": "https://example.com",
+      "newtab": true
+    }
+  ]
+}
